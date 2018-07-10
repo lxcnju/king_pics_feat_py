@@ -32,6 +32,6 @@ Using matrix factorization to extract images' features.(PCA &amp; NMF)
       NMF，Non-negative Matrix Factorization，即非负矩阵分解，是将矩阵X分解为M和H两个矩阵成绩，且M和H元素都大于零，则根据x = a1\*F1 + a2\*F2 + ... + aK\*FK，每个系数都是正的，这就说明，每个特征图像都是所有英雄头像的部分，经常是一些公共的特殊部位。比如：<br>
       ![nmf_1](https://github.com/lxcnju/king_pics_feat_py/blob/master/pics/nmf_feat1.png)
       ![nmf_2](https://github.com/lxcnju/king_pics_feat_py/blob/master/pics/nmf_feat2.png)
-      ![nmf_3](https://github.com/lxcnju/king_pics_feat_py/blob/master/pics/nmf_feat3.png)
-      ![nmf_4](https://github.com/lxcnju/king_pics_feat_py/blob/master/pics/nmf_feat4.png)
+      ![nmf_3](https://github.com/lxcnju/king_pics_feat_py/blob/master/pics/num_feat3.png)
+      ![nmf_4](https://github.com/lxcnju/king_pics_feat_py/blob/master/pics/num_feat4.png)
       
